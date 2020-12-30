@@ -3,7 +3,7 @@
 ## Summary
 Mips Multi-Cycle Processor implemented with verilog. Includes multi-cycle datapath as well as finite state machine control unit.
 
-##Contents
+## Contents
 - memfile.dat - test machine code
 - mipsmem.v   - unified memmory
 - mipsmulti.v - processor datapath and control
